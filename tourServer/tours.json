@@ -1,0 +1,37 @@
+	[
+       { 
+       	"Name":"USA Tours",
+        "Date":"Starting June 2020"
+    	},
+
+    	{
+        "Name":"Europe Tours",
+        "Date": "Starting august 2021"
+    	},
+
+    	{
+        "Name":"Asian Tours",
+        "Date": "Starting december 2020"
+    	},
+
+  		{ 
+       	"Name":"Alaska Tours",
+        "Date":"Monthly"
+    	},
+
+    	{
+        "Name":"Egypt Tours",
+        "Date": "Quarterly"
+    	},
+
+    	{
+        "Name":"Canada Tours",
+        "Date": "Weekly"
+    	},
+
+    	{
+        "Name":"Russia Tours",
+        "Date": "Daily"
+    	}
+        
+    ]

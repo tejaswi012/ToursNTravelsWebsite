@@ -1,0 +1,22 @@
+{
+  "name": "ReactTour",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-proxy-middleware": "^0.20.0",
+    "images": "^3.0.2",
+    "parcel-bundler": "^1.12.4",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  }
+}
